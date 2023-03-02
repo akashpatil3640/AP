@@ -15,6 +15,9 @@ Assessment Platform is used to conduct coding exams .The motive of the project i
 # Login student
 ![Screenshot from 2023-03-02 19-44-47](https://user-images.githubusercontent.com/66793837/222455410-b9777812-5d57-47d4-89f7-44add5f976df.png)
 
+# Student dashboard
+![Screenshot from 2023-03-02 19-39-27](https://user-images.githubusercontent.com/66793837/222459854-8d153422-29ff-4339-99b6-85f4d3c5f4b8.png)
+
 # With Dark Theme
 ![Screenshot from 2023-03-02 19-26-16](https://user-images.githubusercontent.com/66793837/222448951-02bba781-bef6-4d6f-a66e-e0a57832a455.png)
 
