@@ -37,3 +37,6 @@ Assessment Platform is used to conduct coding exams .The motive of the project i
 
 <h1>You can see sample demo of Signup , Login and sample demo </h1>
 https://user-images.githubusercontent.com/66793837/222446393-0b4aae93-f438-4280-b468-583d1fe0e952.mp4
+
+# Usage
+<code>npm install</code>
